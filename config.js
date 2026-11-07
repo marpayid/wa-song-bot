@@ -6,7 +6,7 @@ By DanuZz
 //~~~~~ Login ~~~~~//
 // "qr"   -> scan a QR code in the terminal (WhatsApp > Linked Devices > Link a device)
 // "pair" -> get an 8-digit pairing code (WhatsApp > Linked Devices > Link with phone number)
-global.login_mode = "qr"
+global.login_mode = "pair"
 
 //~~~~~ Global Settings ~~~~~//
 global.prefix = "."                 // bot prefix
